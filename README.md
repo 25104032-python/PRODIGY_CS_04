@@ -68,23 +68,42 @@ Dream learn achieve
 Output (keylog.txt):
 
 'D'
+
 'r'
+
 'e'
+
 'a'
+
 'm'
+
 Key.space
+
 'l'
+
 'e'
+
 'a'
+
 'r'
+
 'n'
+
 Key.space
+
 'a'
+
 'c'
+
+
 'h'
+
 'i'
+
 'e'
+
 'v'
+
 'e'
 
 Output Explanation:
